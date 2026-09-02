@@ -11,8 +11,6 @@ infrastructure — now building the kind of open source I wish existed.
   live API, v4 on the way.
 - **[Boxes](https://github.com/Kardbord/Boxes)**: packaged FOSS for everyone:
   RPMs, DEBs, and Flatpaks built via the Open Build Service and GitHub Actions.
-- Upstream contributor: [open-build-service](https://github.com/openSUSE/open-build-service),
-  the engine behind OBS packaging.
 
 ## 🎯 Open to
 

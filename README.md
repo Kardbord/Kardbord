@@ -15,7 +15,7 @@ infrastructure — now building the kind of open source I wish existed.
 ## 🎯 Open to
 
 Senior engineering roles, contract work, and sponsored maintenance on projects
-with real-world positive impact — climate, healthcare, science, civic tech.
+with real-world positive impact — climate, conservation, healthcare, science, civic tech.
 If your team ships Go, C++, or developer tooling and ships it responsibly,
 let's talk.
 
